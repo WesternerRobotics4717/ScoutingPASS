@@ -38,7 +38,7 @@ The main section of the JSON contains the global attributes and the 5 sections o
 
 There are only a few global attributes to set up the application:
 ```
-{ "dataFormat": "kvs",
+{ "dataFormat": "tvs",
   "title": "Scouting PASS 2023",
   "page_title": "Charged Up",
   "checkboxAs": "10",
